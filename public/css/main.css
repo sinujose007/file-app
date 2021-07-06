@@ -1,0 +1,8 @@
+.hide{
+	display:none;
+}
+.form-center{
+	max-width:700px;
+	margin:0 auto;
+}
+.text-red-600{color:red;}
