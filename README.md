@@ -24,7 +24,7 @@ Create new database : database name is = 'file-app' . You can give different nam
 
 Clone this repository and install the dependencies.
 
-    $ git clone https://github.com/sinujose007/stripes-app.git && cd stripes-app
+    $ git clone https://github.com/sinujose007/file-app.git && cd file-app
     $ composer install
 
 Run the command below to initialize. 
