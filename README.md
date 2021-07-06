@@ -47,6 +47,6 @@ password: 12345678
 
 Menus are available for creating users, upload files etc.
 
-After created normal users, they can also login and upload files.
+Other users can also login and upload files.
 
 -----
